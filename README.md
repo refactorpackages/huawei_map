@@ -2,8 +2,6 @@
   <h1 align="center">Huawei Map Flutter Plugin</h1>
 </p>
 
-
-
 <p align="center">
   <a href="https://pub.dev/packages/huawei_map"><img src="https://img.shields.io/pub/v/huawei_map?style=for-the-badge" alt="pub.dev version"></a>
 </p>
